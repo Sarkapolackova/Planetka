@@ -43,7 +43,7 @@ img {
 }
 
 .flex-item {
-  background: tomato;
+  background: rgb(193, 48, 230);
   padding: 5px;
   width: 200px;
   height: 150px;
